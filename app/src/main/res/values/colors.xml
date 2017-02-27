@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff1744</color>
+    <color name="colorPrimaryDark">#ed0633</color>
+    <color name="colorAccent">#e9123c</color>
+
+    <color name="tungsten">#FF9800</color>
+    <color name="accentLight">#AAe9123c</color>
+    <color name="white">#ffffff</color>
+    <color name="lebelColor">#3d0268</color>
+    <color name="textBlack">#ad000000</color>
+</resources>
